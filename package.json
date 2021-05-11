@@ -1,0 +1,10 @@
+{
+    "name": "front_end_backend",
+    "scripts": {
+     "start": "node server.js",
+     "server": "cd server && nodemon server.js",
+     "client": "cd client && npm run start",
+     "dev": "concurrently \" npm run server \" \" npm run client \""
+    }
+   }
+   

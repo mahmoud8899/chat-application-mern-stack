@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+background-color: #fff;
+display: flex;
+justify-content: flex-start;
+padding: 0rem;
+margin: 0rem;
+width: auto;
+}
+
+.first_navbar{
+    color: #fff;
+    transition: all 0.20s;
+    cursor: pointer;
+    padding: 0rem;
+    margin-top: 0.5rem;
+}
+
+
+.list{
+display: flex;
+list-style: none;
+padding: 0rem;
+margin-left: auto;
+margin-top: 0.5rem;
+align-items: center;
+
+}
+.list li {
+    padding: 0rem;
+    margin-left: 1rem;
+    text-align: center;
+    width: 6rem;
+    transition: all 0.10s;
+    cursor: pointer;
+}
+.list li :hover{
+    opacity: 0.8;
+}
+.list li a {
+    text-decoration: none;
+    color: black;
+    font-family: cursive;
+    cursor: pointer;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-family: cursive;
+    margin-left: 0.1rem;
+    cursor: pointer;
+}
+
+.fa, .fas {
+    font-weight: 900;
+    color: black;
+}
+
+.sx{
+    display: flex;
+    width: 200px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.navbARiMAGE{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    box-shadow: 0px 0px 3px black;
+    
+}
+.sx p {
+    text-transform: capitalize;
+    font-size: 11px;
+    padding-left: 1rem;
+    font-family: cursive;
+}
+
+.first_navbar:hover{
+    opacity: 0.8;
+}
+
+
+

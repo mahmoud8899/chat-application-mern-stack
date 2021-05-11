@@ -1,0 +1,76 @@
+// user LOgin 
+export const ADD_USER_LOADING = 'ADD_USER_LOADING'
+export const ADD_USER_SUCCESS = 'ADD_USER_SUCCESS'
+export const ADD_USER_FAIL = 'ADD_USER_FAIL'
+export const ADD_USER_RESET = 'ADD_USER_RESET'
+
+// sing up..
+export const ADD_USER_SINGUP_LOGIN = 'ADD_USER_SINGUP_LOGIN'
+export const ADD_USER_SINGUP_SECCESS = 'ADD_USER_SINGUP_SECCESS'
+export const ADD_USER_SINGUP_FAIL = 'ADD_USER_SINGUP_FAIL'
+
+// POST faecbook login... 
+export const FAECBOOK_LODING = 'FAECBOOK_LODING'
+export const FAECBOOK_SUCCESS = 'FAECBOOK_SUCCESS'
+export const FAECBOOK_FAIL = 'FAECBOOK_FAIL'
+
+
+
+// user Logout...
+export const ADD_LOGOUT = 'ADD_LOGOUT'
+
+
+
+// userlist.. 
+export const ADD_USERLIST_LOADING = 'ADD_USERLIST_LOADING'
+export const ADD_USERLIST_SUCCESS = 'ADD_USERLIST_SUCCESS'
+export const ADD_USERLIST_FAIL = 'ADD_USERLIST_FAIL'
+
+
+// userid... 
+export const ADD_USERID_LOADING ='ADD_USERID_LOADING'
+export const ADD_USERID_SUCCESS = 'ADD_USERID_SUCCESS'
+export const ADD_USERID_FAIL = 'ADD_USERID_FAIL'
+
+
+// add adres... 
+export const ADD_USER_ADRESS_LOADING = 'ADD_USER_ADRESS_LOADING'
+export const ADD_USER_ADRESS_SUCCESS = 'ADD_USER_ADRESS_SUCCESS'
+export const ADD_USER_ADRESS_FAIL = 'ADD_USER_ADRESS_FAIL'
+
+
+// add Image... 
+export const ADD_IMAGE = 'ADD_IMAGE'
+export const ADD_LOADING = 'ADD_LOADING'
+export const ADD_IMAGE_FAIL = 'ADD_IMAGE_FAIL'
+
+// CREATE chat.
+export const ADD_CREARE_CHAT_LOADING= 'ADD_CREARE_CHAT_LOADING'
+export const ADD_CREARE_CHAT_SUCCESS = 'ADD_CREARE_CHAT_SUCCESS'
+export const ADD_CREARE_CHAT_FAIL = 'ADD_CREARE_CHAT_FAIL'
+
+
+// men vem chattar... visa chat to user
+export const VISA_CHAT_LOADING = 'VISA_CHAT_LOADING'
+export const VISA_CHAT_SUCCESS = 'VISA_CHAT_SUCCESS'
+export const VISA_CHAT_FAIL = 'VISA_CHAT_FAIL'
+
+
+
+// chat romm 
+export const ROOM_CREARE_CHAT_LOADING  ='ROOM_CREARE_CHAT_LOADING'
+export const ROOM_CREARE_CHAT_SUCCESS = 'ROOM_CREARE_CHAT_SUCCESS'
+export const ROOM_CREARE_CHAT_FAIL = 'ROOM_CREARE_CHAT_FAIL'
+
+
+// chat skriva 
+export const ADD_CHAT_SKRIVE_LOADING  ='ADD_CHAT_SKRIVE_LOADING'
+export const ADD_CHAT_SKRIVE_SUCCESS = 'ADD_CHAT_SKRIVE_SUCCESS'
+export const ADD_CHAT_SKRIVE_FAIL = 'ADD_CHAT_SKRIVE_FAIL'
+
+
+
+// create chat.. 
+export const ADD_CHAT_SUCCESS = 'ADD_CHAT_SUCCESS'
+export const ADD_CHAT_FAIL = 'ADD_CHAT_FAIL'
+

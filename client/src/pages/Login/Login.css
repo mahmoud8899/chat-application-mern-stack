@@ -1,0 +1,206 @@
+
+
+.input_login{
+    width: 80%;
+    background: #fff;
+    margin: 2rem auto;
+    border: none;
+    outline: none;
+    border-radius: 3rem;
+    padding: 0.5rem;
+    box-shadow: 5px 5px 5px #b8b5ff5c;
+}
+.first_login{
+    font-family: cursive;
+    font-size: 30px;
+    text-shadow: 0px 0px 5px #b8b5ff;
+    padding: 0rem;
+    outline: none;
+    border: none;
+    margin: 0rem;
+}
+
+.first_login h1{
+   
+    transition: all 1.20s ease-in-out;
+
+}
+.first_login h1:hover{
+    transform: translate(-50px);
+   
+    opacity: 0.5;
+    color: #b8b5ff;
+
+}
+
+.form{
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    display: block;
+    outline: none;
+}
+.input_login_input {
+    height: 46px;
+    padding-left: 1rem;
+    width: 90%;
+    margin: 0.4rem auto;
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 0.2rem #7868e6;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-family: cursive;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.20s;
+    opacity: 0.9;
+}
+.input_login_input:hover{
+    box-shadow: 8px 3px 3px #7868e6;
+}
+.input_login_input:hover{
+    opacity: 0.7;
+}
+.button_input {
+    border: none;
+    outline: none;
+    padding: 0rem;
+    margin: 0rem;
+    width: 65%;
+    background: #7868e6;
+    height: 2.6rem;
+    border-radius: 1rem;
+    color: #FFF;
+    font-size: 19px;
+    font-family: cursive;
+    cursor: pointer;
+    transition: all 0.10s;
+    opacity: 0.9;
+}
+
+
+.button_input:hover{
+    opacity: 0.7;
+}
+
+.like{
+    color: black;
+    font-size: 17px;
+    margin: 1rem auto;
+    padding: 0rem;
+    width: 80%;
+    display: block;
+    font-family: cursive;
+    cursor: pointer;
+}
+.like1{
+    color: black;
+    font-size: 17px;
+    margin: 1rem auto;
+    padding: 0rem;
+    width: 80%;
+    display: block;
+    font-family: cursive;
+    cursor: pointer;
+    transition: all 0.50s;
+    
+}
+
+.like1:hover{
+    color: #7868e6;
+    opacity: 0.4;
+}
+
+
+
+
+
+
+.google_link
+{
+    width: 100%;
+    height: auto;
+    margin: 1rem auto;
+    outline: none;
+border: none;
+}
+.now{
+    background-color: #166fe5;
+    background-color: #1877f2;
+    border: none;
+        border-top-color: currentcolor;
+        border-right-color: currentcolor;
+        border-bottom-color: currentcolor;
+        border-left-color: currentcolor;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+    border-radius: 6px;
+    font-size: 21px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 80%;
+    margin: 0rem auto;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+
+.now_google
+{
+width: 80%;
+font-size: 30px;
+
+cursor: pointer;
+outline: none;
+border: none;
+
+}
+
+.login_from_allt{
+    width: 90%;
+    
+    display: block;
+    margin: 0rem auto;
+}
+.google{
+    
+    display: block;
+    width: 100%;
+    text-align: left;
+   
+    padding: 0rem;
+    margin-bottom: 0.4rem;
+    
+}
+.facebook{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0rem auto;
+    font-size: 22px;
+    font-family: auto;
+}
+.fox{
+    color: beige;
+    width: 100%;
+}
+.my-facebook-button-class{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 200px;
+    color: #FFF;
+}
+
+
+.my-facebook-button-class .fa-facebook{
+    color: #FFF;
+    padding-right: 1rem;
+}
